@@ -1,0 +1,3 @@
+[submodule "iamrich"]
+	path = iamrich
+	url = https://github.com/shanureddy4/iamrich.git
